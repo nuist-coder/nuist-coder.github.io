@@ -1,0 +1,10 @@
+{
+  "name": "nuist-coder.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nuist-coder/nuist-coder.github.io.git",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.0"
+  }
+}
